@@ -56,5 +56,26 @@ int main()
   cout<<"Am I: "<<is_male<<endl;
   cout<<"My height: "<<height<<endl;
 
+  cout<<endl;
+
+  //this is declairing many variables
+  cout<<"This is declairing multiple variables"<<endl;
+  cout<<"int x = 5, y = 6, z = 50"<<endl;
+  int x = 5, y = 6, z = 50;
+  cout<< x + y + z<<endl;
+
+  cout<<endl;
+
+  cout<<"We can also do \n int x, y, z; \n x = y = z = 50;"<<endl;
+  int x1, y1, z1;
+  x1 = y1 = z1 = 50;
+  cout<< x1 + y1 + z1 <<endl;
+
+  cout<<endl;
+
+  cout<<"This is how to print constants"<<endl;
+  cout<<"const mynum = 69"<<ednl;
+  const mynum = 69;
+
   return 0;
 }
