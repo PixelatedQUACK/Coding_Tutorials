@@ -1,2 +1,2 @@
-# Coding_Tutorials
-This is where I will store my Coding Tutorials Journey
+<h1><b>Coding Tutorials</b></h1>
+<p>This is here I put my Coding journey </p>
