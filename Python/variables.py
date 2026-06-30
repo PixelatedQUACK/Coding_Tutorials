@@ -1,0 +1,28 @@
+print("Declairing Variables")
+print("\nThis assigns the variable 'x' with the value of 5")
+print("x = 5")
+x = 5
+print("\nThis assigns the variable of 'y' with the value of 'Jhon' ")
+print("y = Jhon")
+y = "Jhon"
+print("\nTo output the file, we can simply print(x) and print(y)")
+print(x)
+print(y)
+print("\nIf you want to specify the data type, you can use Casting")
+print("\nWe shall declair x with the value of '3' but since we specified this as string, it becomes as string")
+print("x = str(3)")
+x = str(3)
+y = int(3)
+z = float(3)
+print("\ny = int(3) -> this is int\nz = float(3) -> this becomes float")
+print("\nAssigning multiple variables")
+print('\nx, y, z = "Orange","Banana","Cherry"')
+print('print("x")\nprint("y")\nprint("z")\n')
+x, y, z = "Orange","Banana","Cherry"
+print(x)
+print(y)
+print(z)
+print("\nOr we can simply have only one value")
+print('x = y = z = "Orange"')
+x = y = z = "Orange"
+print(x, y, z)
