@@ -15,3 +15,13 @@ print('This outputs its data which is Apple')
 print("\nTo output the size of the list we can use len()\n")
 print("using len(Thislist) outputs 3 as its size")
 print(len(Thislist))
+
+print("\nYou can also create a list by using list() \nFor example\n")
+print('word = "hello"')
+print('newlist = list(word)')
+print('print(newlist)')
+word = "hello"
+newlist = list(word)
+print(f"The result of this list is: {newlist}")
+
+
